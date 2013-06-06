@@ -8,7 +8,7 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-/* line 17, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 17, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 html,
 button,
 input,
@@ -16,7 +16,7 @@ select,
 textarea {
   color: #222; }
 
-/* line 21, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 21, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 body {
   font-size: 1em;
   line-height: 1.4; }
@@ -26,12 +26,12 @@ body {
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
  */
-/* line 32, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 32, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none; }
 
-/* line 37, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 37, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 ::selection {
   background: #b3d4fc;
   text-shadow: none; }
@@ -39,7 +39,7 @@ body {
 /*
  * A better looking default horizontal rule
  */
-/* line 46, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 46, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 hr {
   display: block;
   height: 1px;
@@ -51,14 +51,14 @@ hr {
 /*
  * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
  */
-/* line 59, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 59, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 img {
   vertical-align: middle; }
 
 /*
  * Remove default fieldset styles.
  */
-/* line 67, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 67, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 fieldset {
   border: 0;
   margin: 0;
@@ -67,21 +67,21 @@ fieldset {
 /*
  * Allow only vertical resizing of textareas.
  */
-/* line 77, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 77, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 textarea {
   resize: vertical; }
 
 /* ==========================================================================
    Chrome Frame prompt
    ========================================================================== */
-/* line 85, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate1.scss */
+/* line 85, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate1.scss */
 .chromeframe {
   margin: 0.2em 0;
   background: #ccc;
   color: #000;
   padding: 0.2em 0; }
 
-/* line 1, /Users/larry/_projects/FWC/flasktest/scss/_page.scss */
+/* line 1, /Users/llague/Desktop/_junk/flasktest/scss/_page.scss */
 html, body {
   font-family: "Helvetica", sans-serif; }
 
@@ -91,7 +91,7 @@ html, body {
 /*
  * Image replacement
  */
-/* line 9, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 9, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .ir {
   background-color: transparent;
   border: 0;
@@ -99,7 +99,7 @@ html, body {
   /* IE 6/7 fallback */
   *text-indent: -9999px; }
 
-/* line 17, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 17, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .ir:before {
   content: "";
   display: block;
@@ -109,7 +109,7 @@ html, body {
 /*
  * Hide from both screenreaders and browsers: h5bp.com/u
  */
-/* line 28, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 28, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .hidden {
   display: none !important;
   visibility: hidden; }
@@ -117,7 +117,7 @@ html, body {
 /*
  * Hide only visually, but have it available for screenreaders: h5bp.com/v
  */
-/* line 37, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 37, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -132,7 +132,7 @@ html, body {
  * Extends the .visuallyhidden class to allow the element to be focusable
  * when navigated to via the keyboard: h5bp.com/p
  */
-/* line 54, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 54, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
   clip: auto;
@@ -145,7 +145,7 @@ html, body {
 /*
  * Hide visually and from screenreaders, but maintain layout
  */
-/* line 67, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 67, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .invisible {
   visibility: hidden; }
 
@@ -160,7 +160,7 @@ html, body {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-/* line 84, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 84, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .clearfix:before,
 .clearfix:after {
   content: " ";
@@ -168,7 +168,7 @@ html, body {
   display: table;
   /* 2 */ }
 
-/* line 89, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 89, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .clearfix:after {
   clear: both; }
 
@@ -176,7 +176,7 @@ html, body {
  * For IE 6/7 only
  * Include this rule to trigger hasLayout and contain floats.
  */
-/* line 98, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+/* line 98, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
 .clearfix {
   *zoom: 1; }
 
@@ -194,7 +194,7 @@ html, body {
    Inlined to avoid required HTTP connection: h5bp.com/r
    ========================================================================== */
 @media print {
-  /* line 125, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 125, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   * {
     background: transparent !important;
     color: black !important;
@@ -202,59 +202,59 @@ html, body {
     box-shadow: none !important;
     text-shadow: none !important; }
 
-  /* line 133, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 133, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   a,
   a:visited {
     text-decoration: underline; }
 
-  /* line 137, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 137, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   a[href]:after {
     content: " (" attr(href) ")"; }
 
-  /* line 141, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 141, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   abbr[title]:after {
     content: " (" attr(title) ")"; }
 
   /*
    * Don't show links for images, or javascript/internal links
    */
-  /* line 151, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 151, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   .ir a:after,
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: ""; }
 
-  /* line 156, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 156, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   pre,
   blockquote {
     border: 1px solid #999999;
     page-break-inside: avoid; }
 
-  /* line 161, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 161, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   thead {
     display: table-header-group;
     /* h5bp.com/t */ }
 
-  /* line 166, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 166, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   tr,
   img {
     page-break-inside: avoid; }
 
-  /* line 170, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 170, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   img {
     max-width: 100% !important; }
 
   @page {
     margin: 0.5cm; }
 
-  /* line 180, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 180, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   p,
   h2,
   h3 {
     orphans: 3;
     widows: 3; }
 
-  /* line 186, /Users/larry/_projects/FWC/flasktest/scss/_boilerplate2.scss */
+  /* line 186, /Users/llague/Desktop/_junk/flasktest/scss/_boilerplate2.scss */
   h2,
   h3 {
     page-break-after: avoid; } }
