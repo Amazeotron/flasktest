@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block title %}Login{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{%  block content %}
+  <h1>LOGIN</h1>
+  <form action="#" method="post">
+    <fieldset>
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" placeholder="username"></input>
+    </fieldset>
+    <fieldset>
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" placeholder="password"></input>
+    </fieldset>
+  </form>
+{% endblock %}
